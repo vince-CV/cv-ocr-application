@@ -1,3 +1,4 @@
+# License Plate Detection & Recognition
 In terms of the recent works on scene text detection pipeline, (from CRAFT paper):
 ![Image](/images/5.png)
 
